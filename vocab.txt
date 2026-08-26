@@ -1,0 +1,4 @@
+Repository - A digital space for storing files and folders specifically code 
+Code Enviroment - A digital space for building programs using code
+Computing terminal - A digital machine that runs code programs
+python - A programing language
