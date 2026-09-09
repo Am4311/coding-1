@@ -1,0 +1,9 @@
+1. string, integers, booleans, floats
+
+2. A code Repository is where you store code 
+
+3. A computer keyboard is a input because everytime you click a key it sends a signal out to the computer
+
+4. A Variable is a spot that stores data. You can name it anything as long its descriptive
+
+5. 1 Variable rule is that you cant name it starting with a number
