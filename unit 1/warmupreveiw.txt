@@ -1,6 +1,6 @@
 1. string, integers, booleans, floats
 
-2. A code Repository is where you store code 
+2. A code Repository is where you store files and folders
 
 3. A computer keyboard is a input because everytime you click a key it sends a signal out to the computer
 
