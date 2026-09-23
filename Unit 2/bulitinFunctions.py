@@ -19,7 +19,7 @@ print(year)
 
 year = 1944
 
-#print("this event took place in"+ str(year) )
+#print("this event took place in"+ str(year))
 
 #month = input ("what numerical mouth were you born")
 #print("you were born in the" + month + month of the year)
@@ -35,3 +35,10 @@ print(int(price))
 #int() - any data type passed into the brackets wil be covered into a interger(whole number)
 
 # transform a decimal into a whole number cannot transform string into numbers
+
+#float() - a function that will change any datatype passed into it into float/ decimal number
+
+num2 = input("type in a number:")
+# input always returns a string 
+print(9+float(num2))
+
