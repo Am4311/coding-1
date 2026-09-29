@@ -19,4 +19,5 @@
 #spritecost = 3.59
 
 #camel case - when creating Variable names with muliple words every word begins with a capital letter
-#snake case - using a underscore when making a Variable
+#snake case - using a underscore when making a Variable 
+

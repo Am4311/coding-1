@@ -27,8 +27,6 @@ print(10<4) #less than
 
 
 
-# equal signs compare is something is the same
-
 print("2" == 2)
 print (book == Book)
 

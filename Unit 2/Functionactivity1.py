@@ -9,5 +9,9 @@
 # val = input("type in a number")
 # print(int(val) > 85)
 
-val=input("type in a number")
-print(int(val) + 360)
+#val=input("type in a number")
+# print(int(val) + 360) 
+
+#val = input("type in a school")
+#print(val == "Boys Latin")
+
