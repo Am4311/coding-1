@@ -1,0 +1,3 @@
+1. A collection of code comments that explains on how the code works
+
+ 2. 
