@@ -1,0 +1,9 @@
+The type game im going to make is a fighting game you can fight as different memes. Theres going to be memes from 2015 to 2026.
+
+The games objectives is just fighting
+
+When the user completes the action they ethier win a round or if they won the round before they win the whole match
+
+When the player loses the the action they would the lose the round or the whole game (kinda like in a fighting like mkx)
+
+the three games that are simualr to the game im going to bulid is mortal kombat x,brawlhalla, and street fighter. 

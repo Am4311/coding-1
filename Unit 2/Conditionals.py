@@ -88,14 +88,14 @@ from prompt_toolkit import choice
 
 
 
-def ticketprogram():
-    print("Program has started: please type in your age to see to see the price of your ticket  ")
-    age = input()
-    if age < 6:
-        print("your ticket is $8.00")
-    elif age >= 8 and age <= 20:
-        print("ticket price = $12.00")
-    elif age >= 21 and age <= 60:
-        print("ticket price = $20.00")
-    elif age >= 61:
-       print("ticket price = free")
+#def ticketprogram():
+ #   print("Program has started: please type in your age to see to see the price of your ticket  ")
+   # age = input()
+    #if age < 6:
+  #      print("your ticket is $8.00")
+  #  elif age >= 8 and age <= 20:
+   #     print("ticket price = $12.00")
+ #   elif age >= 21 and age <= 60:
+  #      print("ticket price = $20.00")
+   # elif age >= 61:
+    #   print("ticket price = free")
