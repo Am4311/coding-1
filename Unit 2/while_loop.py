@@ -25,3 +25,5 @@ def gussingGame():
         print("Wrong answer, please try again")
         userGuess = int(input("Please type in a number to guess"))
         attemps += 1
+        print('Number of attempts: ' + str(attemps))
+        userGuess = int(input("Please type in a number to guess"))
