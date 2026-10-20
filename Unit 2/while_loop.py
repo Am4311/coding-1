@@ -1,0 +1,27 @@
+# loop - A loop is a construct that repeats itself. in programming a loop allows to repeat code instructions.
+
+#there is two types of loops: for loop and while loop
+
+# While loop - a type of loop where so long as a condition is equal to ture it will keep running forever.
+
+# The keyword is while.
+
+# Syntax:
+#num = 4
+#while 2 + 2 == num:
+    #print("Program is running...")
+#num = int(input("please enter a new number: "))
+#while loops will ALWAYS run unless you change thr condition. We can do this by writing instructions to manually change it. 
+
+
+
+
+def gussingGame():
+    correctAnswer = 10 
+    userGuess = int(input("Please type in a number to guess"))
+    attemps = 0
+
+    while userGuess != correctAnswer:
+        print("Wrong answer, please try again")
+        userGuess = int(input("Please type in a number to guess"))
+        attemps += 1
