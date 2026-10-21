@@ -16,14 +16,30 @@
 
 
 
-def gussingGame():
-    correctAnswer = 10 
-    userGuess = int(input("Please type in a number to guess"))
-    attemps = 0
+#def gussingGame():
+    #correctAnswer = 10 
+    #userGuess = int(input("Please type in a number to guess"))
+    #attemps = 0
 
-    while userGuess != correctAnswer:
-        print("Wrong answer, please try again")
-        userGuess = int(input("Please type in a number to guess"))
-        attemps += 1
-        print('Number of attempts: ' + str(attemps))
-        userGuess = int(input("Please type in a number to guess"))
+    #while userGuess != correctAnswer:
+        #print("Wrong answer, please try again")
+        #userGuess = int(input("Please type in a number to guess"))
+        #attemps += 1
+        #print('Number of attempts: ' + str(attemps))
+        #userGuess = int(input("Please type in a number to guess"))
+
+
+
+def passwordReset():
+    password = "TwentyThousandEmusVsOneMoose"
+    userPassword = input("Please enter your current password: ")
+    attempts = 3
+    
+    while userPassword != password and attempts > 0:
+        print("Incorrect password, please try again.")
+        attempts -= 1
+        print("Number of attempts: " + str(attempts))
+        if attempts == 0:
+            print("You have been locked out.")
+        userPassword = input("Please enter your current password: ")
+            
