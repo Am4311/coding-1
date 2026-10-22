@@ -30,16 +30,36 @@
 
 
 
-def passwordReset():
-    password = "TwentyThousandEmusVsOneMoose"
-    userPassword = input("Please enter your current password: ")
-    attempts = 3
+#def passwordReset():
+    #password = "TwentyThousandEmusVsOneMoose"
+    #userPassword = input("Please enter your current password: ")
+    #attempts = 3
     
-    while userPassword != password and attempts > 0:
-        print("Incorrect password, please try again.")
-        attempts -= 1
-        print("Number of attempts: " + str(attempts))
-        if attempts == 0:
-            print("You have been locked out.")
-        userPassword = input("Please enter your current password: ")
+    #while userPassword != password and attempts > 0:
+     #   print("Incorrect password, please try again.")
+      #  attempts -= 1
+       # print("Number of attempts: " + str(attempts))
+        #if attempts == 0:
+         #   print("You have been locked out.")
+        #userPassword = input("Please enter your current password: ")
             
+def vendingMachine():
+    item = input("Please enter the item you would like to purchase: ")
+    item = nachoChips
+    nachochips = B3
+
+
+    BBQChips = G4
+    item = BBQChips
+    
+    item = PlainChips
+    PlainChips = G7
+
+    item = Water
+    Water = D3
+
+    item = ColaSoda 
+
+    ColaSoda = D4
+
+    
