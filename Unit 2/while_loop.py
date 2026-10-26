@@ -63,10 +63,28 @@
     #ColaSoda = D4
 
 
+#import random
+
+#radint = random.randint(1, 7)
+#print(radint)
+#r = roll 
+#q = quit
+
 import random
 
-radint = random.randint(1, 7)
-print(radint)
-r = roll 
-q = quit
-
+def play_rock_paper_scissors():
+    choices = ["rock", "paper", "scissors"]
+    computer_choice = random.choice(choices)
+    
+    user_choice = input("Enter rock, paper, or scissors (or 'quit' to exit): ").lower()
+    
+    while user_choice != 'quit':
+        if user_choice not in choices:
+            print("Invalid choice. Please try again.")
+        else:
+            print(f"Computer chose: {computer_choice}")
+            if user_choice == computer_choice:
+                print("It's a tie!")
+            elif (user_choice == "rock" and computer_choice == "scissors") or \
+                 (user_choice == "paper" and computer_choice == "rock") or \
+                 (user_choice == "scissors" and computer_choice == "paper"):
