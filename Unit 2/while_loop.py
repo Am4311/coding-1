@@ -43,24 +43,27 @@
          #   print("You have been locked out.")
         #userPassword = input("Please enter your current password: ")
             
-#def vendingMachine():
-    #item = input("Please enter the item you would like to purchase: ")
-    #item = nachoChips
-    #nachochips = B3
+def vendingMachine():
+    print ("Vending Machine")
+    print ("Please select an item from the list below")
+    item = input()
+    while item != "quit":
+        if item == "B3":
+   item = nachoChips
+    nachochips = B3
 
 
-    #BBQChips = G4
-    #item = BBQChips
+    BBQChips = G4
+    item = BBQChips
     
-    #item = PlainChips
-    #PlainChips = G7
+    item = PlainChips
+    PlainChips = G7
 
-    #item = Water
-    #Water = D3
+    item = Water
+    Water = D3
 
-    #item = ColaSoda 
-
-    #ColaSoda = D4
+    item = ColaSoda     
+    ColaSoda = D4
 
 
 #import random
@@ -70,21 +73,25 @@
 #r = roll 
 #q = quit
 
-import random
+#import random
 
-def play_rock_paper_scissors():
-    choices = ["rock", "paper", "scissors"]
-    computer_choice = random.choice(choices)
-    
-    user_choice = input("Enter rock, paper, or scissors (or 'quit' to exit): ").lower()
-    
-    while user_choice != 'quit':
-        if user_choice not in choices:
-            print("Invalid choice. Please try again.")
-        else:
-            print(f"Computer chose: {computer_choice}")
-            if user_choice == computer_choice:
-                print("It's a tie!")
-            elif (user_choice == "rock" and computer_choice == "scissors") or \
-                 (user_choice == "paper" and computer_choice == "rock") or \
-                 (user_choice == "scissors" and computer_choice == "paper"):
+#def play_rock_paper_scissors():
+ #   choices = ["rock", "paper", "scissors"]
+  #  user_choice = input("Enter rock, paper, or scissors (or 'quit' to exit): ").lower()
+   # 
+    #while user_choice != 'quit':
+     #   if user_choice not in choices:
+      #      print("Invalid choice. Please try again.")
+       # else:
+        #    computer_choice = random.choice(choices)
+         #   print(f"Computer chose: {computer_choice}")
+          #  if user_choice == computer_choice:
+           #     print("It's a tie!")
+            #elif (user_choice == "rock" and computer_choice == "scissors") or \
+             #    (user_choice == "paper" and computer_choice == "rock") or \
+              #   (user_choice == "scissors" and computer_choice == "paper"):
+               # print("You win!")
+            #else:
+             #   print("Computer wins!")
+
+        #user_choice = input("Enter rock, paper, or scissors (or 'quit' to exit): ").lower()
