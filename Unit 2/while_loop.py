@@ -43,35 +43,33 @@
          #   print("You have been locked out.")
         #userPassword = input("Please enter your current password: ")
             
-def vendingMachine():
-    print ("Vending Machine")
-    print ("Please select an item from the list below")
-    item = input()
-    while item != "quit":
-        if item == "B3":
-   item = nachoChips
-    nachochips = B3
+#def vendingMachine():
+ #   print ("Vending Machine")
+  #  print ("Please select an item from the list below")
+   # item = input()
+    #while item != "quit":
+     #   if item == "B3":
+   #item = nachoChips
+   # nachochips = B3
 
 
-    BBQChips = G4
-    item = BBQChips
-    
-    item = PlainChips
-    PlainChips = G7
+    #elif item == "G4":
+     #   item = BBQChips
+#
+  #  elif item == "G7":
+   #     item = PlainChips
+    #    PlainChips = G7
 
-    item = Water
-    Water = D3
+    #elif item == "D3":
+   #     item = Water
+    #    Water = D3
 
-    item = ColaSoda     
-    ColaSoda = D4
+    #elif item == "D4":
+     #   item = ColaSoda
+      #  ColaSoda = D4
 
 
-#import random
-
-#radint = random.randint(1, 7)
-#print(radint)
-#r = roll 
-#q = quit
+         
 
 #import random
 
