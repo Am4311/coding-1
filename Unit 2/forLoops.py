@@ -9,9 +9,34 @@
 
 # loop fpr syntax 
 
-for i in range(1,999):
-    print(i)
+#for i in range(-5,999):
+ #   print(i)
 
 #i Stands for iterator = programers decided to make this universal symbol for a placeholder for counting
 
-#L
+#List --> a dat collection type that acts as a container for multiple data types --> a way to list multiple pieces of data in 1 place
+
+#foodItem_1 = "apple"
+
+
+#grocerylist = ["apples", "oranges", "water", "chips", "ground beef"] 
+
+#print(grocerylist) 
+
+#for i in grocerylist:
+    #print("I need to buy " + i)
+
+   # grades = [100, 98 , 75 , 77 , 89 , 80]
+
+    #for grades in grades:
+   #     if grades < 85:
+  #              print(grades)
+
+#fighter_A= ["johnny brovo", 100, 50]
+#figher_B= ["dexter lab" 120 , 40]
+
+#fighters = [ fighters_B , fighters_A]
+
+#for fighterName in fighters: 
+     #print("name of fighters:" +str(fightername[0])
+    # print("health of fighters:" +str(fightername[1]) 
