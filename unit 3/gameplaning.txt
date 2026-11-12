@@ -1,5 +1,32 @@
-my game is street fighter mortal kombat brawlhalla style fighting game. the objective is just to defeat the other player. there will be supermoves for every character.
+1. my game is street fighter mortal kombat brawlhalla style fighting game. 
+the objective is just to defeat the other player. 
+there will be supermoves for every character.
 
-the control scheme would just be wasd for movement ert for supermoves and zxcv for regular fighting. theres nothing really special about our controls. they are really simple.
+2. the control scheme would just be wasd for movement ert for supermoves and zxcv for regular fighting. 
+theres nothing really special about our controls. 
+they are really simple.
 
-there would be multiple characters , a stage , and multiple weapons to fight with. there will also be different maps to choose from. 
+3. there would be multiple characters , a stage , and multiple weapons to fight with. 
+there will also be different maps to choose from.
+there will be atleast 4 maps to choose from. 
+
+
+
+
+
+1. the primary mechanics is youll be able to doge like a quick flash doge to not get hit also for movement. 
+Another mechanic is that the lower your health is the more knockback you take. 
+and the last mechanic is that you have heavy attacks and light attacks. the overall game is just to fight basically.
+
+2. the primary conpect is to beat the other player or other team to win. 
+when the other player or team runs out of lifes the loop will end. 
+but if the time runs out it will be sudden death
+
+3. the obstacles in the game are the people your going against. 
+there will be a 50 seconds time limit. 
+the only limitation is that you have to learn combos.
+
+4. the aesthetic of the game will be kinda dark like gritty. 
+the audio style will use alot of realistic sounds. 
+the genre is a fighting game
+the graphics will kinda be inspired by the game corpse party.
