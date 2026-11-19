@@ -1,0 +1,17 @@
+this game will be a 2d fighter game  
+
+it will have 3 lives and 100 health and a knock back system like brawlhalla 
+
+it will have two differnet characters for now
+
+it will have a welcome screen before the game starts
+
+there will be stage like a fighting stage and a background 
+
+the controls will be w a s d and the fighing keys will be vbnm
+
+the will have players 3 dashes and make the dash key shift 
+
+the enemy should be a cpu
+
+the win and lose conditions should be if one of the players losses all their lives and health

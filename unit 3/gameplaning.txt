@@ -46,6 +46,9 @@ There is multiple to choose from like a spear , gauntlets , hammer and more.
 Each weapon and character will have their own unique move set and super moveset. 
 Also there will be many different maps to choose from.  
 
-The players are constantly fighting. the only time youll get a break is when your oppenet is respawning. The game will end if you or your oppenet losses their 3 lives. but if the time runs out before anyone losses thier 3 lives it will be sudden death. The sudden death will be like all the players will be one hit and its really whoever gets the first hit.
+The players are constantly fighting. the only time youll get a break is when your oppenet is respawning. 
+The game will end if you or your oppenet losses their 3 lives.
+But if the time runs out before anyone losses thier 3 lives it will be sudden death.
+The sudden death will be like all the players will be one hit and its really whoever gets the first hit.
 
 The objects on my paper are the health bars ,lives A stage, death zone at the bottom, weapons like spears and gauntlets , and the time on top.
